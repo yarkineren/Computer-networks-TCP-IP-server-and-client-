@@ -1,0 +1,36 @@
+C:\Users\Lenovo\Desktop\clientson\clientson\bin\Debug\clientson.exe.config
+C:\Users\Lenovo\Desktop\clientson\clientson\bin\Debug\clientson.exe
+C:\Users\Lenovo\Desktop\clientson\clientson\bin\Debug\clientson.pdb
+C:\Users\Lenovo\Desktop\clientson\clientson\obj\Debug\client.Form1.resources
+C:\Users\Lenovo\Desktop\clientson\clientson\obj\Debug\clientson.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\clientson\clientson\obj\Debug\clientson.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\clientson\clientson\obj\Debug\clientson.exe
+C:\Users\Lenovo\Desktop\clientson\clientson\obj\Debug\clientson.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör (2)\bin\Debug\clientson.exe.config
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör (2)\obj\Debug\clientson.exe
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör (2)\obj\Debug\clientson.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör (2)\bin\Debug\clientson.exe
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör (2)\bin\Debug\clientson.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör (2)\obj\Debug\clientson.csprojResolveAssemblyReference.cache
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör (2)\obj\Debug\client.Form1.resources
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör (2)\obj\Debug\clientson.Properties.Resources.resources
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör (2)\obj\Debug\clientson.csproj.GenerateResource.Cache
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\client\bin\Debug\clientson.exe.config
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\client\obj\Debug\clientson.exe
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\client\obj\Debug\clientson.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\client\bin\Debug\clientson.exe
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\client\bin\Debug\clientson.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\client\obj\Debug\clientson.csprojResolveAssemblyReference.cache
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\client\obj\Debug\client.Form1.resources
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\client\obj\Debug\clientson.Properties.Resources.resources
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\client\obj\Debug\clientson.csproj.GenerateResource.Cache
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\client\bin\Debug\clientson.exe.config
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\client\bin\Debug\clientson.exe
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\client\bin\Debug\clientson.pdb
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\client\obj\Debug\clientson.csprojAssemblyReference.cache
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\client\obj\Debug\client.Form1.resources
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\client\obj\Debug\clientson.Properties.Resources.resources
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\client\obj\Debug\clientson.csproj.GenerateResource.cache
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\client\obj\Debug\clientson.csproj.CoreCompileInputs.cache
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\client\obj\Debug\clientson.exe
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\client\obj\Debug\clientson.pdb
