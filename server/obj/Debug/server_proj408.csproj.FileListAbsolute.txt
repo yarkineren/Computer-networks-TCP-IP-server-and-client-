@@ -1,0 +1,100 @@
+C:\Users\HANDE\Desktop\Server\bin\Debug\server_proj408.exe.config
+C:\Users\HANDE\Desktop\Server\bin\Debug\server_proj408.exe
+C:\Users\HANDE\Desktop\Server\bin\Debug\server_proj408.pdb
+C:\Users\HANDE\Desktop\Server\obj\Debug\server_proj408.csprojResolveAssemblyReference.cache
+C:\Users\HANDE\Desktop\Server\obj\Debug\server_proj408.Form1.resources
+C:\Users\HANDE\Desktop\Server\obj\Debug\server_proj408.Properties.Resources.resources
+C:\Users\HANDE\Desktop\Server\obj\Debug\server_proj408.csproj.GenerateResource.Cache
+C:\Users\HANDE\Desktop\Server\obj\Debug\server_proj408.exe
+C:\Users\HANDE\Desktop\Server\obj\Debug\server_proj408.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\bin\Debug\server_proj408.exe.config
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\obj\Debug\server_proj408.exe
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\obj\Debug\server_proj408.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\bin\Debug\server_proj408.exe
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\bin\Debug\server_proj408.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\bin\Debug\mscorlib.dll
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\bin\Debug\System.Net.Http.dll
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\bin\Debug\System.Net.Http.xml
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\bin\Debug\normidna.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\bin\Debug\normnfc.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\bin\Debug\normnfd.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\bin\Debug\normnfkc.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\bin\Debug\normnfkd.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\obj\Debug\server_proj408.csprojResolveAssemblyReference.cache
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\obj\Debug\server_proj408.Form1.resources
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\obj\Debug\server_proj408.Properties.Resources.resources
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (2)\s\obj\Debug\server_proj408.csproj.GenerateResource.Cache
+C:\Users\HANDE\Documents\s\bin\Debug\server_proj408.exe.config
+C:\Users\HANDE\Documents\s\obj\Debug\server_proj408.exe
+C:\Users\HANDE\Documents\s\obj\Debug\server_proj408.pdb
+C:\Users\HANDE\Documents\s\bin\Debug\server_proj408.exe
+C:\Users\HANDE\Documents\s\bin\Debug\server_proj408.pdb
+C:\Users\HANDE\Documents\s\obj\Debug\server_proj408.csprojResolveAssemblyReference.cache
+C:\Users\HANDE\Documents\s\obj\Debug\server_proj408.Form1.resources
+C:\Users\HANDE\Documents\s\obj\Debug\server_proj408.Properties.Resources.resources
+C:\Users\HANDE\Documents\s\obj\Debug\server_proj408.csproj.GenerateResource.Cache
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\bin\Debug\server_proj408.exe.config
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\obj\Debug\server_proj408.exe
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\obj\Debug\server_proj408.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\bin\Debug\server_proj408.exe
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\bin\Debug\server_proj408.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\bin\Debug\mscorlib.dll
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\bin\Debug\System.Net.Http.dll
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\bin\Debug\System.Net.Http.xml
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\bin\Debug\normidna.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\bin\Debug\normnfc.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\bin\Debug\normnfd.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\bin\Debug\normnfkc.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\bin\Debug\normnfkd.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\obj\Debug\server_proj408.csprojResolveAssemblyReference.cache
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\obj\Debug\server_proj408.Form1.resources
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\obj\Debug\server_proj408.Properties.Resources.resources
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (3)\ss\obj\Debug\server_proj408.csproj.GenerateResource.Cache
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\bin\Debug\server_proj408.exe.config
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\obj\Debug\server_proj408.exe
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\obj\Debug\server_proj408.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\bin\Debug\server_proj408.exe
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\bin\Debug\server_proj408.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\bin\Debug\mscorlib.dll
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\bin\Debug\System.Net.Http.dll
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\bin\Debug\System.Net.Http.xml
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\bin\Debug\normidna.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\bin\Debug\normnfc.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\bin\Debug\normnfd.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\bin\Debug\normnfkc.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\bin\Debug\normnfkd.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\obj\Debug\server_proj408.csprojResolveAssemblyReference.cache
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\obj\Debug\server_proj408.Form1.resources
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\obj\Debug\server_proj408.Properties.Resources.resources
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\Yeni klasör\obj\Debug\server_proj408.csproj.GenerateResource.Cache
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\bin\Debug\server_proj408.exe.config
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\obj\Debug\server_proj408.exe
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\obj\Debug\server_proj408.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\bin\Debug\server_proj408.exe
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\bin\Debug\server_proj408.pdb
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\bin\Debug\mscorlib.dll
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\bin\Debug\System.Net.Http.dll
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\bin\Debug\System.Net.Http.xml
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\bin\Debug\normidna.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\bin\Debug\normnfc.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\bin\Debug\normnfd.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\bin\Debug\normnfkc.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\bin\Debug\normnfkd.nlp
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\obj\Debug\server_proj408.csprojResolveAssemblyReference.cache
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\obj\Debug\server_proj408.Form1.resources
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\obj\Debug\server_proj408.Properties.Resources.resources
+C:\Users\iremg\OneDrive\Belgeler\Visual Studio 2012\Yeni klasör (4)\server\obj\Debug\server_proj408.csproj.GenerateResource.Cache
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\server\bin\Debug\server_proj408.exe.config
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\server\bin\Debug\server_proj408.exe
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\server\bin\Debug\server_proj408.pdb
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\server\obj\Debug\server_proj408.csprojAssemblyReference.cache
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\server\obj\Debug\server_proj408.Form1.resources
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\server\obj\Debug\server_proj408.Properties.Resources.resources
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\server\obj\Debug\server_proj408.csproj.GenerateResource.cache
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\server\obj\Debug\server_proj408.csproj.CoreCompileInputs.cache
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\server\obj\Debug\server_proj408.exe
+C:\Users\yarki\OneDrive\Masaüstü\cs408_proje\server\obj\Debug\server_proj408.pdb
